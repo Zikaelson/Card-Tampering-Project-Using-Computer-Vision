@@ -1,4 +1,4 @@
-# Card-Tampering-Project-Using-Computer-Vision
+# Card-Tampering-Detection-Project-Using-Computer-Vision
 This project aims to detect tampering in identification cards using computer vision techniques. It helps organizations verify the authenticity of ID cards provided by employees, customers, or other individuals. The project compares the original ID card with the user's uploaded ID card to identify any discrepancies and confirm its authenticity.
 
 ## Features:
